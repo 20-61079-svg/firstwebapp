@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "Basic Node.js backend for school task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
